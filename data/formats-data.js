@@ -5258,6 +5258,11 @@ exports.BattleFormatsData = {
 		randomDoubleBattleMoves: ["substitute","steameruption","heatwave","sludgebomb","rockslide","earthquake","protect"],
 		tier: "Unreleased"
 	},
+	Araquanid: {
+		randomBattleMoves: ["substitute","Waterfall","Leech Life","Protect","Crunch","Toxic","superpower"],
+		randomDoubleBattleMoves: ["substitute","steameruption","heatwave","sludgebomb","rockslide","earthquake","protect"],
+		tier: "NU"
+	},
 	missingno: {
 		randomBattleMoves: ["watergun","skyattack","doubleedge","metronome"],
 		isNonstandard: true,
